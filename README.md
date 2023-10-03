@@ -8,6 +8,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjoams_mg)](https://twitter.com/joams_mg)
 [![Discord](https://img.shields.io/badge/Discord-blue?logo=discord)](https://discord.com/users/520993331975553035)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/joams-mogro-gomez-442691103/)
+[![Gmail](https://img.shields.io/badge/Gmail%20-red?logo=gmail)](mailto:joamsmg@gmail.com)
+
+
 
 I'm Computer Science Engineer since two years ago.
 
