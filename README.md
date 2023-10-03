@@ -17,3 +17,17 @@ Since I finished the university I have dedicated my self to develop some applica
 
 During these years I always try to help people with differents bugs and some code.
 
+## Technologies:
+![Static Badge](https://img.shields.io/badge/JavaScript-blue?logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/Node-white?logo=Node.js)
+![Static Badge](https://img.shields.io/badge/NestJS-red?logo=NestJS)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?logo=TypeScript)
+![Static Badge](https://img.shields.io/badge/Angular-crimson?logo=Angular)
+![Static Badge](https://img.shields.io/badge/Express-blue?logo=Express)
+![Static Badge](https://img.shields.io/badge/HTML5-yellow?logo=HTML5)
+![Static Badge](https://img.shields.io/badge/CSS3-blue?logo=CSS3)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-crimson?logo=Tailwind%20CSS)
+![Static Badge](https://img.shields.io/badge/Flutter-crimson?logo=Flutter)
+![Static Badge](https://img.shields.io/badge/MongoDB-crimson?logo=MongoDB)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL)
+
