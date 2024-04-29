@@ -1,4 +1,4 @@
- <styles>
+ <style>
       * {
         margin: 0;
         padding: 0;
@@ -64,7 +64,7 @@
           #fff 48px
         );
       }
-    </styles>
+    </style>
 
  <header class="header-container">
       <h1>Hi!</h1>
