@@ -1,50 +1,4 @@
- <header class="header-container">
-      <h1>Hi!</h1>
-      <img src="https://raw.githubusercontent.com/jom3/jom3/main/images/front-image.jpg" alt="" class="front-image" />
-      <div class="header-links">
-        <a href="https://twitter.com/joams_mg" target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/x.svg" alt="" />TWITTER</a
-        >
-        <a href="https://discord.com/users/520993331975553035" target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/discord.svg" alt="" />DISCORD</a
-        >
-        <a
-          href="https://www.linkedin.com/in/joams-mogro-gomez-442691103/"
-          target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/linkedin.svg" alt="" />LINKEDIN</a
-        >
-        <a href="mailto:joamsmg@gmail.com" target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/gmail.svg" alt="" />TWITTER</a
-        >
-      </div>
-    </header>
-    <main class="main-container">
-      <div class="container">
-        <h1>About me</h1>
-        <pre>
-          {
-            name: 'Joams',
-            last_name: 'Mogro Gomez',
-            age: 29,
-            passions: ['Web developer','Frontend developer','Backend developer'],
-            current_occupation: 'Freelance'
-          }
-        </pre>
-      </div>
-      <div class="container">
-        <h1>Skills</h1>
-        <pre>
-          {
-            languages: ['JavaScript','TypeScript'],
-            frontend: ['Angular','React','Astro'],
-            backend: ['Nodejs','Nestjs'],
-            databases: ['PostgreSQL','Mongodb']
-          }
-        </pre>
-      </div>
-    </main>
-
-<style>
+ <style>
       * {
         margin: 0;
         padding: 0;
@@ -111,3 +65,50 @@
         );
       }
     </style>
+
+ <header class="header-container">
+      <h1>Hi!</h1>
+      <img src="https://raw.githubusercontent.com/jom3/jom3/main/images/front-image.jpg" alt="" class="front-image" />
+      <div class="header-links">
+        <a href="https://twitter.com/joams_mg" target="_blank"
+          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/x.svg" alt="" />TWITTER</a
+        >
+        <a href="https://discord.com/users/520993331975553035" target="_blank"
+          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/discord.svg" alt="" />DISCORD</a
+        >
+        <a
+          href="https://www.linkedin.com/in/joams-mogro-gomez-442691103/"
+          target="_blank"
+          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/linkedin.svg" alt="" />LINKEDIN</a
+        >
+        <a href="mailto:joamsmg@gmail.com" target="_blank"
+          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/gmail.svg" alt="" />TWITTER</a
+        >
+      </div>
+    </header>
+    <main class="main-container">
+      <div class="container">
+        <h1>About me</h1>
+        <pre>
+          {
+            name: 'Joams',
+            last_name: 'Mogro Gomez',
+            age: 29,
+            passions: ['Web developer','Frontend developer','Backend developer'],
+            current_occupation: 'Freelance'
+          }
+        </pre>
+      </div>
+      <div class="container">
+        <h1>Skills</h1>
+        <pre>
+          {
+            languages: ['JavaScript','TypeScript'],
+            frontend: ['Angular','React','Astro'],
+            backend: ['Nodejs','Nestjs'],
+            databases: ['PostgreSQL','Mongodb']
+          }
+        </pre>
+      </div>
+    </main>
+
