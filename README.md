@@ -1,114 +1,44 @@
- <styles>
-      * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        background-color: black;
-        color: #3c3c3b;
-      }
-      .header-container {
-        width: 100%;
-        padding: 1rem;
-        display: flex;
-        flex-direction: column;
-        gap: 1rem;
-      }
-      .header-container > h1 {
-        color: #3c3c3b;
-        text-align: center;
-      }
-      .header-container > hr {
-        border: 1px solid #3c3c3b;
-      }
-      .front-image {
-        width: 100%;
-      }
-      .header-links {
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 1rem;
-      }
-      .header-links > a {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        gap: 0.3rem;
-        padding: 0.3rem;
-        border-radius: 0.4rem;
-        border: 2px solid #3c3c3b;
-        font-weight: 900;
-        color: #808080;
-        text-decoration: none;
-      }
-      .main-container {
-        padding: 1rem;
-        display: flex;
-        flex-direction: column;
-        gap: 1rem;
-      }
-      .container {
-        display: flex;
-        flex-direction: column;
-      }
-      pre {
-        font-size: 1rem;
-        border: 2px solid grey;
-        border-radius: 5px;
-        padding: 14px;
-        display: flex;
-        background-image: repeating-linear-gradient(
-          180deg,
-          #fff 24px,
-          #fff 48px
-        );
-      }
-    </styles>
+# Hi!
+![Joams mogro's wall description](https://raw.githubusercontent.com/jom3/jom3/main/images/front-image.jpg)
+[![Badge Twitter](https://raw.githubusercontent.com/jom3/jom3/main/images/social/x.svg "Twitter")](https://twitter.com/joams_mg)
+[![Badge LinkedIn](https://raw.githubusercontent.com/jom3/jom3/main/images/social/discord.svg "Discord")](https://discord.com/users/520993331975553035)
+[![Badge LinkedIn](https://raw.githubusercontent.com/jom3/jom3/main/images/social/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/joams-mogro-gomez-442691103/)
+[![Badge LinkedIn](https://raw.githubusercontent.com/jom3/jom3/main/images/social/gmail.svg "Send me an email")](mailto:joamsmg@gmail.com)
+## About me
 
- <header class="header-container">
-      <h1>Hi!</h1>
-      <img src="https://raw.githubusercontent.com/jom3/jom3/main/images/front-image.jpg" alt="" class="front-image" />
-      <div class="header-links">
-        <a href="https://twitter.com/joams_mg" target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/x.svg" alt="" />TWITTER</a
-        >
-        <a href="https://discord.com/users/520993331975553035" target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/discord.svg" alt="" />DISCORD</a
-        >
-        <a
-          href="https://www.linkedin.com/in/joams-mogro-gomez-442691103/"
-          target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/linkedin.svg" alt="" />LINKEDIN</a
-        >
-        <a href="mailto:joamsmg@gmail.com" target="_blank"
-          ><img src="https://raw.githubusercontent.com/jom3/jom3/main/images/social/gmail.svg" alt="" />TWITTER</a
-        >
-      </div>
-    </header>
-    <main class="main-container">
-      <div class="container">
-        <h1>About me</h1>
-        <pre>
-          {
-            name: 'Joams',
-            last_name: 'Mogro Gomez',
-            age: 29,
-            passions: ['Web developer','Frontend developer','Backend developer'],
-            current_occupation: 'Freelance'
-          }
-        </pre>
-      </div>
-      <div class="container">
-        <h1>Skills</h1>
-        <pre>
-          {
-            languages: ['JavaScript','TypeScript'],
-            frontend: ['Angular','React','Astro'],
-            backend: ['Nodejs','Nestjs'],
-            databases: ['PostgreSQL','Mongodb']
-          }
-        </pre>
-      </div>
-    </main>
+
+***`Software developer with experience in Angular, Node.js, NestJS,
+JavaScript and TypeScript. Competent in development of high-performance web applications and in construction of robust backend systems.
+A great interest in the best practices in software development.
+Dedicated to continuous learning and staying up to date with the latest
+industry trends and versions of the different technologies. Open to new
+opportunities in the world technology that allows me to contribute my
+experience and promote the innovation.`***
+
+## Technologies
+
+### Languages
+![JavaScript](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/javascript.svg "JavaScript")
+![TypeScript](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/typescript.svg "TypeScript")
+
+### Frontend
+![Angular](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/angular.svg "Angular")
+![Astro](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/astro.svg "Astro")
+![react](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/react.svg "React")
+![Next](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/next.svg "Nextjs")
+
+### Backend
+![Nodejs](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/node.svg "Nodejs")
+![Nestjs](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/nest.svg "Nestjs")
+
+### CSS
+
+![BootStrap](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/bootstrap.svg "BootStrap")
+![Tailwind](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/tailwind.svg "Tailwind CSS")
+
+### Database
+
+![PostgreSQL](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/postgres.svg "PostgreSQL")
+![MongoDB](https://raw.githubusercontent.com/jom3/jom3/main/images/tech/mongo.svg "Mongo DB")
+
 
