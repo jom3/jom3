@@ -4,8 +4,8 @@
 [![Badge LinkedIn](https://raw.githubusercontent.com/jom3/jom3/main/images/social/discord.svg "Discord")](https://discord.com/users/520993331975553035)
 [![Badge LinkedIn](https://raw.githubusercontent.com/jom3/jom3/main/images/social/linkedin.svg "LinkedIn")](https://www.linkedin.com/in/joams-mogro-gomez-442691103/)
 [![Badge LinkedIn](https://raw.githubusercontent.com/jom3/jom3/main/images/social/gmail.svg "Send me an email")](mailto:joamsmg@gmail.com)
-## About me
 
+## About me
 
 ***`Software developer with experience in Angular, Node.js, NestJS,
 JavaScript and TypeScript. Competent in development of high-performance web applications and in construction of robust backend systems.
